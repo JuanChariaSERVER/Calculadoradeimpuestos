@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	left: 0;
+	top: 0;
+
+}
+.nav {
+	width:100%;
+	height: 70px;
+	background-color: yellow;
+}
+.nav h1 {
+	color: darkblue;
+	font-family: Times New Roman;
+	padding: 13px;
+	font-size: 40px;
+	text-align: center;
+}
+.nav img {
+	margin: right;
+	display: block;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	}
+
+.titulo {
+	color: yellow;
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 40px;
+	margin-top: 30px;
+}
+
+.presentacion {
+	color: darkblue;
+	background-color: yellow;
+	font-family: Britanic Bold;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 30px;
+}
+.jugo {
+	color: yellow;
+	font-family: Times New Roman;
+	font-size: 20px;
+	
+}
+.bobino {
+	color: yellow;
+	font-family: Times New Roman;
+	font-size: 20px;
+}
+p {
+    color: yellow;
+    font-family: Times New Romans;
+    font-size: 20px
+    
+}
