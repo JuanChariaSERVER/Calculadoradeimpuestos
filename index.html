@@ -21,7 +21,7 @@
      	</p>
      </div>
 
-<form method="post" action=""><br>
+<form method="post" action="index.php"><br>
 <h1 class="jugo">INSERTE VALOR DE LA COMPRA</h1><br>
 <input type="text" name="numero"><br><br>
 <input type="submit" value="CALCULAR"><br>
@@ -30,16 +30,5 @@
 
 </body>
 
-<?php
-
-$valor = $_POST['numero'];
-$resultado = $valor * 64 / 100;
-$resultado2 = $valor + $resultado;
-echo "<p>EL GOBIERNO TE ESTÁ ROBANDO: $resultado PESOS </p>";
-echo "<p>Y TENDRÍAS QUE PAGAR: $resultado2 PESOS </p>";
-
-
-
-?> 
 
 </html>
