@@ -21,7 +21,7 @@
      	</p>
      </div>
 
-<form method="post" action=""><br>
+<form method="post"><br>
 <h1 class="jugo">INSERTE VALOR DE LA COMPRA</h1><br>
 <input type="text" name="numero"><br><br>
 <input type="submit" value="CALCULAR"><br>
